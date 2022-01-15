@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automation files
 
 Automate kaggle api functions
@@ -11,3 +12,6 @@ Automate repository updates
 
 Test
 
+=======
+# Automation
+>>>>>>> ba57309bf9557035203c6c6523b3ed2f4e4a340d
