@@ -1,4 +1,4 @@
-# Data-Science-Pipeline
+# Data-Science-Pipeline - Work in progress
 Data science pipeline tailored for the kaggle competitions
 
 # Short pipeline description
